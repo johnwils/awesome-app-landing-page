@@ -25,8 +25,18 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Auto categorized, shared grocery list that learns new items over time. # Optional
+marketing_desc: How does it work?
+
+• As items are added, the list auto sorts itself into 7 preset categories to help you when shopping.
+
+• Each category is based on suggestions from other users.
+
+• If an item category is not assigned, assign it to make it available to everyone using the app.
+
+• Sync your list across 7 devices to add and remove items instantly with anyone, anywhere, anytime (requires internet).
+
+
 
 #
 # Social Links
@@ -39,7 +49,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: johnner@me.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -55,10 +65,10 @@ enable:
 #
 # Available devices:
 # * iphone-se-silver-vertical
-# * iphone-se-space-gray-vertical
+# * iphone-se-silver-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-se-space-gray-vertical # REQUIRED
 
 #
 # Theme Settings
