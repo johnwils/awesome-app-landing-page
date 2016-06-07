@@ -25,7 +25,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Auto categoring grocery list that learns new items over time. # Optional
+marketing_header: Auto categorizing grocery list that learns new items over time. # Optional
 marketing_desc: How does it work? As items are added the list auto sorts itself into 7 preset categories to help you when shopping. Each category is based on suggestions from other users. If an item category is not assigned, assign it to make it available to everyone using the app. Sync your list across 7 devices to add and remove items instantly with anyone, anywhere, anytime (requires internet).
 
 #
