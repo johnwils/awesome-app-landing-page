@@ -26,7 +26,7 @@ app:
 # Marketing
 #
 marketing_header: Auto categorizing grocery list # Optional
-marketing_desc: Food items auto sort into 7 categories. Ease shopping by syncing your list with up to 7 devices. Add and remove items instantly with anyone, anywhere, anytime (requires internet).
+marketing_desc: Food items auto sort into 7 categories. Ease shopping and sync your list with up to 7 devices. Edit a single shared list instantly with anyone, anywhere, anytime (requires internet).
 
 #
 # Social Links
