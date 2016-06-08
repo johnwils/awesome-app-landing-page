@@ -64,7 +64,7 @@ device: iphone-se-space-gray-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: images/food-salad-healthy-vegetables.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: images/food-healthy-summer-sun.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Grocery List Ai # Optional - Enter your site title
+description: Auto categorizing grocery list # Optional - Enter your site description
 
 #
 # Google Analytics
