@@ -4,8 +4,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>{% if site.title %}{{ site.title }}{% else %}{{ site.app.name }}{% endif %}</title>
+  <!-- grocery, list, ai --><cmt>
   <meta name="description" content="{{ site.description }}">
-
+  <meta name="application-name" content="Grocery List Ai">
+  <meta name="keywords" content="grocery list ai,grocery list,grocery,list,shopping list,free list,free shopping list,grocery,food list,free shopping list,free grocery list" />
+  <meta name="author" content="John Wilson">
+  <meta name="robots" content="index, nofollow" />
+  <meta name="googlebot" content="index,nofollow">
+  <meta name="revisit-after" content="2 days" />
+  <meta name="abstract" content="Landing page for iOS and Android apps">
+  <meta name="coverage" content="Worldwide">
+  
   {% if site.enable.smart_app_banner %}
   <!-- Smart App Banner -->
   <meta name="apple-itunes-app" content="app-id={{ site.app.ios_id }},affiliate-data={% include apple-affiliate.html %}">
@@ -26,5 +35,4 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 
-  <!-- Created with Awesome App Landing Page - http://github.com/joshbuchea/awesome-app-landing-page -->
 </head>
